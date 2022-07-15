@@ -4,7 +4,7 @@ Platanus Tournament ⛵
 <br />
 <p align="center">  
 <a href="https://www.qries.com/">
-    <img alt="Platanus" src="https://res-4.cloudinary.com/ha0mfd5dh/image/upload/q_auto/v1/ghost-blog-images/logo.png" width="640" height="320">
+    <img alt="Platanus" src="https://res-4.cloudinary.com/ha0mfd5dh/image/upload/q_auto/v1/ghost-blog-images/logo.png" width="320" height="320">
   </a>
   <h3 align="center">Platanus Tournament</h3>
 
