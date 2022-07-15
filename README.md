@@ -72,7 +72,7 @@ El módulo principal de la tarea a ejecutar es  ```main.rb```. Además, a contin
 
 Para realizar mi tarea saqué información de:
 
-1. [attack_value(attacker, defender)](https://dev.to/thepracticaldev/daily-challenge-170-pokemon-damage-calculator-97d): Con esta función se logra salir del programa de manera exitosa y está implementado en el archivo ```lib/encounter.rb``` en la línea 51.
+1. [attack_value(attacker, defender)](https://dev.to/thepracticaldev/daily-challenge-170-pokemon-damage-calculator-97d): Con esta función se logra calcular de manera simple el valor del ataque de un pokemón a otro. Está implementado en ```lib/encounter.rb``` en la línea 51.
 
 2. [PokeApi](https://pokeapi.co/): Documentación de la PokeApi.
 -------
