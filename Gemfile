@@ -3,5 +3,4 @@
 source "https://rubygems.org"
 
 # gem "rails"
-poke = PokeApi.get(pokemon: 'bulbasaur')
-puts poke
+gem 'poke-api-v2'

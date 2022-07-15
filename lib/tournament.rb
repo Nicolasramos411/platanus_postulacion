@@ -13,8 +13,9 @@ class Tournament
     start()
   end
 
+  # Start the tournament and handle the result
   def start
-    puts "Hello ladies and gentlemans!\nThe Tournament #{@name} has began."
+    puts "Hello ladies and gentlemans!\nThe #{@name} Tournament has began."
     puts "\nThe pokemons are:"
     @pokemons.each_with_index do |pokemon, index|
       puts "#{index + 1}. #{pokemon.name}"
@@ -64,7 +65,6 @@ class Tournament
     puts "The tournament #{@name} has finished!"
     @final_positions.insert(0, encounter.result["loser"])
     @final_positions.insert(0, encounter.result["winner"])
-    
   end
 
 end
