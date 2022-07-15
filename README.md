@@ -1,15 +1,15 @@
-Simpons Project ⛵
+Platanus Tournament ⛵
 
 <!-- Logotipo del proyecto -->
 <br />
 <p align="center">  
 <a href="https://www.qries.com/">
-    <img alt="DCCimpsos" src="https://c4.wallpaperflare.com/wallpaper/1017/313/85/the-simpsons-bart-simpson-homer-simpson-lisa-simpson-wallpaper-preview.jpg" width="640" height="320">
+    <img alt="Platanus" src="https://res-4.cloudinary.com/ha0mfd5dh/image/upload/q_auto/v1/ghost-blog-images/logo.png" width="640" height="320">
   </a>
-  <h3 align="center">T2: DCCimpsons</h3>
+  <h3 align="center">Platanus Tournament</h3>
 
   <p align="center">
-    Un juego innovador basado en la ciudad de Springfield, cualquier parecido con la serie Los Simpsons es mera coincidencia...
+    Un simulador de un torneo Pokemón, hecho especialmente para Ham The Chimp.
     <br />
     <br />
   </p>
